@@ -8,7 +8,7 @@
 		"hurryCostModifier": 23,
 		"percentStatBonus": {"gold": 30},
 		"uniques": [
-			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (doubled from the [Industrial era] onwards)]",
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; and [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
 			"Comment [[+1 Production, +1 Food] from [Horses] tiles; and [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
 			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
@@ -30,7 +30,7 @@
 		"hurryCostModifier": 23,
 		"percentStatBonus": {"gold": 30},
 		"uniques": [
-			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
 			"Comment [[+1 Production, +1 Food] from [Horses] tiles; [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
 			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
@@ -52,7 +52,7 @@
 		"hurryCostModifier": 23,
 		"percentStatBonus": {"gold": 30},
 		"uniques": [
-			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
 			"Comment [[+1 Production, +1 Food] from [Horses] tiles; [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
 			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
@@ -74,7 +74,7 @@
 		"hurryCostModifier": 23,
 		"percentStatBonus": {"gold": 30},
 		"uniques": [
-			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
 			"Comment [[+1 Production, +1 Food] from [Horses] tiles; [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
 			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
@@ -96,7 +96,7 @@
 		"hurryCostModifier": 23,
 		"percentStatBonus": {"gold": 30},
 		"uniques": [
-			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
 			"Comment [[+1 Production, +1 Food] from [Horses] tiles; [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
 			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
