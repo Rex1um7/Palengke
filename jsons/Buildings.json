@@ -6,7 +6,7 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 23,
-		"percentStatBonus": {"gold": 30},
+		"percentStatBonus": {"gold": 15},
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; and [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
@@ -27,7 +27,7 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 23,
-		"percentStatBonus": {"gold": 30},
+		"percentStatBonus": {"gold": 15},
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
@@ -48,7 +48,7 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 23,
-		"percentStatBonus": {"gold": 30},
+		"percentStatBonus": {"gold": 15},
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
@@ -69,7 +69,7 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 23,
-		"percentStatBonus": {"gold": 30},
+		"percentStatBonus": {"gold": 15},
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
@@ -90,7 +90,7 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 23,
-		"percentStatBonus": {"gold": 30},
+		"percentStatBonus": {"gold": 15},
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
@@ -111,7 +111,7 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 23,
-		"percentStatBonus": {"gold": 30},
+		"percentStatBonus": {"gold": 15},
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
 			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
