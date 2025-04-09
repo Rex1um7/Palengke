@@ -5,6 +5,7 @@
 		"uniqueTo": "Philippines",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
+		"percentStatBonus": {"gold": 10},
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
@@ -25,6 +26,7 @@
 		"uniqueTo": "Filipinas",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
+		"percentStatBonus": {"gold": 10},
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
@@ -45,6 +47,7 @@
 		"uniqueTo": "Tondo",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
+		"percentStatBonus": {"gold": 10},
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
@@ -65,6 +68,7 @@
 		"uniqueTo": "Sulu",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
+		"percentStatBonus": {"gold": 10},
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
@@ -85,6 +89,7 @@
 		"uniqueTo": "Cebu",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
+		"percentStatBonus": {"gold": 10},
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route]",
@@ -105,6 +110,7 @@
 		"uniqueTo": "Maguindanao",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
+		"percentStatBonus": {"gold": 10},
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
